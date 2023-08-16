@@ -7,4 +7,9 @@ use (
 	./06mypointers
 	./07myarrays
 	./08slices
+	./09maps
+	./10structs
+	./11ifelse
+	./12switch
+	./13loops
 )
