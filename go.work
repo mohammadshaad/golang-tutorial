@@ -12,4 +12,10 @@ use (
 	./11ifelse
 	./12switch
 	./13loops
+	./14functions
+	./15methods
+	./16mydefer
+	./17files
+	./18mywebrequest
+	./19myurl
 )
