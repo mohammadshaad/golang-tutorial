@@ -19,4 +19,6 @@ use (
 	./18mywebrequest
 	./19myurl
 	./20server
+	./23mymodules
+	./24buildapi
 )
